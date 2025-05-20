@@ -1,1 +1,1 @@
-# gannis
+Este es un proyecto creado por un grupo de desarrolladores de la escuela tecnica n26 confederacion suiza 
